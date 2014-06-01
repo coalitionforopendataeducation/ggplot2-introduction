@@ -1,0 +1,19 @@
+{
+	"module": "Introduction to ggplot2",
+	"creation date": "2014-06-01",
+	"last modified": "2014-06-01",
+	"repository": "https://github.com/coalitionforopendataeducation/ggplot2-introduction",
+	"Languages": [
+		"R",
+	],
+	"Language modules": [
+		"ggplot2",
+	],
+	"supporting languages": [
+		"xml",
+	],
+	"badges":[
+		"ggplot2 beginner",
+		"web data scrapper beginner"
+	]
+}
